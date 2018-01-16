@@ -7,3 +7,7 @@
 /build
 /captures
 .externalNativeBuild
+!settings.gradle
+!SlidingDelete.iml
+!gradlew
+!gradlew.bat
