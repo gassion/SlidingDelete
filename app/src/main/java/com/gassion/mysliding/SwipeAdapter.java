@@ -9,9 +9,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.gassion.slidingdeletelibrary.OnSlideListener;
-import com.gassion.slidingdeletelibrary.SwipeListView;
-import com.gassion.slidingdeletelibrary.SwipeView;
+import com.gassion.slidingdeletetest.OnSlideListener;
+import com.gassion.slidingdeletetest.SwipeListView;
+import com.gassion.slidingdeletetest.SwipeView;
 
 import java.util.List;
 

@@ -3,7 +3,7 @@ package com.gassion.mysliding;
 import android.app.Activity;
 import android.os.Bundle;
 
-import com.gassion.slidingdeletelibrary.SwipeListView;
+import com.gassion.slidingdeletetest.SwipeListView;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -40,7 +40,7 @@ public class SwipeView extends LinearLayout {
         // 设置其方向为横向
         setOrientation(LinearLayout.HORIZONTAL);
         // 将slide_view_merge加载进来
-        View.inflate(mContext, R.layout.layout_swipe, this);
+        View.inflate(mContext,R.layout.layout_swipe, this);
         mLayoutContent = (LinearLayout) findViewById(R.id.layout_content);
         mLayoutHolder = (RelativeLayout) findViewById(R.id.layout_holder);
         mLayoutHolder.measure(MeasureSpec.UNSPECIFIED, MeasureSpec.UNSPECIFIED);
